@@ -22,6 +22,7 @@
 + equals(other : NetflixOriginal) : boolean
 -----------------------------------------
 */
+
 public class NetflixOriginal
 {
   /***** CONSTANTS and OTHER STATIC VARIABLES *****/
